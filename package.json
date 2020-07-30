@@ -1,0 +1,64 @@
+{
+  "name": "mwc-demos",
+  "version": "0.0.1",
+  "description": "Demos for the mwc component set",
+  "scripts": {
+    "serve": "es-dev-server --node-resolve --preserve-symlinks --compatibility auto --port $PORT",
+    "start": "npm run bundle & npm run serve",
+    "bundle": "rollup -c rollup.config.js --watch",
+    "pull": "node scripts/update-deps-and-demos.js && refresh"
+  },
+  "dependencies": {
+    "@material/mwc-button": "^0.17.2",
+    "@material/mwc-checkbox": "^0.17.2",
+    "@material/mwc-dialog": "^0.17.2",
+    "@material/mwc-drawer": "^0.17.2",
+    "@material/mwc-fab": "^0.17.2",
+    "@material/mwc-floating-label": "^0.17.2",
+    "@material/mwc-formfield": "^0.17.2",
+    "@material/mwc-icon": "^0.17.2",
+    "@material/mwc-icon-button": "^0.17.2",
+    "@material/mwc-icon-button-toggle": "^0.17.2",
+    "@material/mwc-line-ripple": "^0.17.2",
+    "@material/mwc-linear-progress": "^0.17.2",
+    "@material/mwc-list": "^0.17.2",
+    "@material/mwc-menu": "^0.17.2",
+    "@material/mwc-notched-outline": "^0.17.2",
+    "@material/mwc-radio": "^0.17.2",
+    "@material/mwc-ripple": "^0.17.2",
+    "@material/mwc-select": "^0.17.2",
+    "@material/mwc-slider": "^0.17.2",
+    "@material/mwc-snackbar": "^0.17.2",
+    "@material/mwc-switch": "^0.17.2",
+    "@material/mwc-tab": "^0.17.2",
+    "@material/mwc-tab-bar": "^0.17.2",
+    "@material/mwc-tab-indicator": "^0.17.2",
+    "@material/mwc-tab-scroller": "^0.17.2",
+    "@material/mwc-textarea": "^0.17.2",
+    "@material/mwc-textfield": "^0.17.2",
+    "@material/mwc-top-app-bar": "^0.17.2",
+    "@material/mwc-top-app-bar-fixed": "^0.17.2",
+    "@webcomponents/webcomponentsjs": "^2.4.3",
+    "lit-element": "^2.3.1",
+    "lit-html": "^1.2.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^7.1.3",
+    "es-dev-server": "^1.48.1",
+    "mkdirp-promise": "^5.0.1",
+    "node-fetch": "^2.6.0",
+    "rollup": "^2.9.1",
+    "rollup-plugin-copy": "^3.3.0",
+    "write-pkg": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.13.0"
+  },
+  "repository": {
+    "url": "https://github.com/material-components/material-components-web-components"
+  },
+  "license": "MIT",
+  "keywords": [
+    "glitch"
+  ]
+}
