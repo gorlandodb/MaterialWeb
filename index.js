@@ -24,6 +24,5 @@ import '@material/mwc-textarea';
 import '@material/mwc-textfield';
 
 addEventListener('load', function() {
-  console.log("GG")
   document.body.classList.remove('unresolved');
 });
