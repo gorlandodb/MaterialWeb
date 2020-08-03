@@ -122,12 +122,17 @@
 
           <style>
             .component-section .checkbox {
-              /* --mdc-theme-secondary: red; */
+              --mdc-circular-progress-bar-color-1: #2196f3;
+              --mdc-circular-progress-bar-color-2: #e91e63;
+              --mdc-circular-progress-bar-color-3: #ffc107;
+              --mdc-circular-progress-bar-color-4: #03dac5;
             }
           </style>
 
           <div class="circular-progress component-wrapper">
+            <mwc-circular-progress progress=".7"></mwc-circular-progress>
             <mwc-circular-progress indeterminate></mwc-circular-progress>
+            <mwc-circular-progress-four-color indeterminate></mwc-circular-progress-four-color>
           </div>
           </div>
         </section>
