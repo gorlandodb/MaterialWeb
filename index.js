@@ -2,6 +2,8 @@ import '@material/mwc-top-app-bar-fixed';
 import '@material/mwc-icon';
 import '@material/mwc-button';
 import '@material/mwc-checkbox';
+import '@material/mwc-circular-progress';
+import '@material/mwc-circular-progress-four-color';
 import '@material/mwc-dialog';
 import '@material/mwc-fab';
 import '@material/mwc-formfield';
