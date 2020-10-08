@@ -1,35 +1,35 @@
 dependencies:
-  '@material/mwc-button': 0.19.0
-  '@material/mwc-checkbox': 0.19.0
-  '@material/mwc-circular-progress': 0.19.0
-  '@material/mwc-circular-progress-four-color': 0.19.0
-  '@material/mwc-dialog': 0.19.0
-  '@material/mwc-drawer': 0.19.0
-  '@material/mwc-fab': 0.19.0
-  '@material/mwc-floating-label': 0.19.0
-  '@material/mwc-formfield': 0.19.0
-  '@material/mwc-icon': 0.19.0
-  '@material/mwc-icon-button': 0.19.0
-  '@material/mwc-icon-button-toggle': 0.19.0
-  '@material/mwc-line-ripple': 0.19.0
-  '@material/mwc-linear-progress': 0.19.0
-  '@material/mwc-list': 0.19.0
-  '@material/mwc-menu': 0.19.0
-  '@material/mwc-notched-outline': 0.19.0
-  '@material/mwc-radio': 0.19.0
-  '@material/mwc-ripple': 0.19.0
-  '@material/mwc-select': 0.19.0
-  '@material/mwc-slider': 0.19.0
-  '@material/mwc-snackbar': 0.19.0
-  '@material/mwc-switch': 0.19.0
-  '@material/mwc-tab': 0.19.0
-  '@material/mwc-tab-bar': 0.19.0
-  '@material/mwc-tab-indicator': 0.19.0
-  '@material/mwc-tab-scroller': 0.19.0
-  '@material/mwc-textarea': 0.19.0
-  '@material/mwc-textfield': 0.19.0
-  '@material/mwc-top-app-bar': 0.19.0
-  '@material/mwc-top-app-bar-fixed': 0.19.0
+  '@material/mwc-button': 0.19.1
+  '@material/mwc-checkbox': 0.19.1
+  '@material/mwc-circular-progress': 0.19.1
+  '@material/mwc-circular-progress-four-color': 0.19.1
+  '@material/mwc-dialog': 0.19.1
+  '@material/mwc-drawer': 0.19.1
+  '@material/mwc-fab': 0.19.1
+  '@material/mwc-floating-label': 0.19.1
+  '@material/mwc-formfield': 0.19.1
+  '@material/mwc-icon': 0.19.1
+  '@material/mwc-icon-button': 0.19.1
+  '@material/mwc-icon-button-toggle': 0.19.1
+  '@material/mwc-line-ripple': 0.19.1
+  '@material/mwc-linear-progress': 0.19.1
+  '@material/mwc-list': 0.19.1
+  '@material/mwc-menu': 0.19.1
+  '@material/mwc-notched-outline': 0.19.1
+  '@material/mwc-radio': 0.19.1
+  '@material/mwc-ripple': 0.19.1
+  '@material/mwc-select': 0.19.1
+  '@material/mwc-slider': 0.19.1
+  '@material/mwc-snackbar': 0.19.1
+  '@material/mwc-switch': 0.19.1
+  '@material/mwc-tab': 0.19.1
+  '@material/mwc-tab-bar': 0.19.1
+  '@material/mwc-tab-indicator': 0.19.1
+  '@material/mwc-tab-scroller': 0.19.1
+  '@material/mwc-textarea': 0.19.1
+  '@material/mwc-textfield': 0.19.1
+  '@material/mwc-top-app-bar': 0.19.1
+  '@material/mwc-top-app-bar-fixed': 0.19.1
   '@webcomponents/webcomponentsjs': 2.4.3
   lit-element: 2.3.1
   lit-html: 1.2.1
@@ -1159,7 +1159,7 @@ packages:
     dev: false
     resolution:
       integrity: sha512-8LijUyxtAf7eVluydur93xrHFa2YcSOt08F08bbxt0r5GW5fp3CNQDPqTJEzi61Y5n4YvlkCqUwIsVYNxp2RfQ==
-  /@material/mwc-base/0.19.0:
+  /@material/mwc-base/0.19.1:
     dependencies:
       '@material/base': 8.0.0-canary.774dcfc8e.0
       '@material/dom': 8.0.0-canary.774dcfc8e.0
@@ -1167,55 +1167,55 @@ packages:
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-RQdbUxkoCq02uUVXmOPwn1dRBsf+ul21fU7mFwAHv7bodASh3KdeMNiMUV/thtnAf4+fpZMgOjUoBZ1DuOlC1g==
-  /@material/mwc-button/0.19.0:
+      integrity: sha512-tYih18Fd99nURPN8ulzibIUeCUo/Wv1ScQIWYZtDkXwOiEvDJDYm0jDO96bOMRZK8aIvW/URspbUoa/RkK2yYw==
+  /@material/mwc-button/0.19.1:
     dependencies:
-      '@material/mwc-icon': 0.19.0
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-icon': 0.19.1
+      '@material/mwc-ripple': 0.19.1
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-imrhG04LYde2WRloX2tvCK2AzHiPxVn3GhK8hbG+p0ffTPmev18JsPZNSJZj6/1XLlqimMLNO3CsJIqyi3XftQ==
-  /@material/mwc-checkbox/0.19.0:
+      integrity: sha512-3aLW2rbV9dp1F9729Uj/2CCY9j6um5OOa9p6uTPOQ29w7Z0u0yvKv2vJ7a/eZlKZUrdR52az4SzsviVPz7918g==
+  /@material/mwc-checkbox/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-ripple': 0.19.1
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-B8zRL1Z++hg2KC6TnMS6y7EPfo1Hlh+bcF7AcynQjLff8MNXDzqSX/8u2I74FqZAFpt8ApMe+/Wp+xU8lFPk1g==
-  /@material/mwc-circular-progress-four-color/0.19.0:
+      integrity: sha512-pp17VHtSqqLjEHu2U1SnFeqmLgjf5Ek3DNbzAgygm5foGqaXnQ0opn6bS1zZYKrSX7ZLC8LjLo2jp2uZXFEG1g==
+  /@material/mwc-circular-progress-four-color/0.19.1:
     dependencies:
       '@material/circular-progress': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-circular-progress': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-circular-progress': 0.19.1
       '@material/theme': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-BUAMnsqpjrhRJfei50yJers8vpWWjza0tPniO72FHPMp3PF34kT6byYnWCaNYySs7KklQKc2cYfs6/rRIC5DgQ==
-  /@material/mwc-circular-progress/0.19.0:
+      integrity: sha512-akM3CBFAfR4usRQ+FMGMUTDWhBH4s95569bqwCp62LgkWNA7mEXY8aMxnLH5TON8W5JG86tzgxBgj5NElOPK8w==
+  /@material/mwc-circular-progress/0.19.1:
     dependencies:
       '@material/circular-progress': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/theme': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-Vffocp0Gfw6wNm7h2bWbIzEwssba7JzmcHzr9LMjpfZjflYlexdbbiFXfRqivQwDOCp2KZDNcoQPWfeyGqXliQ==
-  /@material/mwc-dialog/0.19.0:
+      integrity: sha512-CLImZIJrAck9wrBJA9OhMUnMxr9iuSU2o+K7dTLA+OThkeZ1TRZ5og3nHajQob6BxKsbisFqDWf8JR17e49G4g==
+  /@material/mwc-dialog/0.19.1:
     dependencies:
       '@material/dialog': 8.0.0-canary.774dcfc8e.0
       '@material/dom': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-button': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-button': 0.19.1
       blocking-elements: 0.1.1
       lit-element: 2.4.0
       lit-html: 1.3.0
@@ -1223,11 +1223,11 @@ packages:
       wicg-inert: 3.0.3
     dev: false
     resolution:
-      integrity: sha512-GvIyboZcIyO3vhsYomdhz9jlFIXPrW6zsXu3iDxu6Rgfie1uJlbhfOih2GCGfvctfdPCr0j6uV6APlAiQDE63w==
-  /@material/mwc-drawer/0.19.0:
+      integrity: sha512-vCxXtnTZEmSJFOiv/qk/YFLvvACYaGa/qQeo7Gtk3a7vNvKXfG6HZ9lgVNbg1mv/4Xiu2BvFxjwItU8JjK8OxA==
+  /@material/mwc-drawer/0.19.1:
     dependencies:
       '@material/drawer': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       blocking-elements: 0.1.1
       lit-element: 2.4.0
       lit-html: 1.3.0
@@ -1235,99 +1235,100 @@ packages:
       wicg-inert: 3.0.3
     dev: false
     resolution:
-      integrity: sha512-A9NcfPdCfmOhEFP3axYrJwbgt8RkIEly9d6kErhK2tLiaTyV5WDM9z0TiX4WNBY+SVe+YZzvVyuDZoqpa2exRg==
-  /@material/mwc-fab/0.19.0:
+      integrity: sha512-M8jCdZ8QVhPR1qERdr7siEULHsPwE+DMQSHb5dDtJdYho5Qog/beQ2J5iSl7p8fbYqTpLWgxBoCKPtcLXFShTQ==
+  /@material/mwc-fab/0.19.1:
     dependencies:
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-ripple': 0.19.1
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-NHw+wzxcFHbvP0Ryt65pIBPIIKJCM6rtQNAJwTvOUEAOQtjY/VHZtys7EN/y4H1jMjcTrqgjBmi4zkhOhjuqxQ==
-  /@material/mwc-floating-label/0.19.0:
+      integrity: sha512-bgw58dnKZkUUTzTSSzoq8/KbJiXcIoV2qS5Y2L0U/dUONcEyoTOnVATS9cbaHF4Nv+kEVhWH7Zh+pm5e0pjyCw==
+  /@material/mwc-floating-label/0.19.1:
     dependencies:
       '@material/floating-label': 8.0.0-canary.774dcfc8e.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-7yQmh7FGc/ozrvrej2uJhl2NjYikbEh/OKz07TKml8ILk+wgsLnl/OQMej7nVPqAqvg+96pg7+jhkRiydJWVQA==
-  /@material/mwc-formfield/0.19.0:
+      integrity: sha512-UcvnRZKAW0i2dhZrQH4jUaYJxBD0v8q8/sjI9KsFLoDx3DX+8fb+KbCaw6O+2G97wTeheBg0ZWiy9YXM5F69Zw==
+  /@material/mwc-formfield/0.19.1:
     dependencies:
       '@material/form-field': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-SPreCyud7eWx8KPAM+KbkgRyqG4sZ3YuzUdP8c2fdxSGZ2YjMGffXo46fUj0eqPFmOExaqivs9Xl+xXWwbq9rw==
-  /@material/mwc-icon-button-toggle/0.19.0:
+      integrity: sha512-FD6wNKBTGSXyBrH/KlkUtNjE8wnzQDxX7yZQuLm6In3XPsTrEVBCWzAYMjuzAsh7pM16IgCnxERXDUnSNFpAQg==
+  /@material/mwc-icon-button-toggle/0.19.1:
     dependencies:
       '@material/icon-button': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-icon-button': 0.19.0
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-icon-button': 0.19.1
+      '@material/mwc-ripple': 0.19.1
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-z8uM8xksVpeDu8LogEbXrXqnt7aN0PKzCBhYArirKHBKJVboM9VjkIRiicCn4dVChGl92oJOcjQOrFGiyqItzg==
-  /@material/mwc-icon-button/0.19.0:
+      integrity: sha512-E8lHGDtaPSVhuc4+SX3B/k61G9mUoX8f2cp9SCcYmoclkZS0jZpeCoTdpq2lfbh+oqQwxyhS8cB4y6UpSz9ing==
+  /@material/mwc-icon-button/0.19.1:
     dependencies:
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-ripple': 0.19.1
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-yqsqt3ouooQFUOXfjadAl8ojvxFj5IOsTPSFIZ/wSq7iqoQmWmzvR5jFlyou8cnH/4yY0N1ecRLL4ozr87C/vg==
-  /@material/mwc-icon/0.19.0:
+      integrity: sha512-1S/M0O0Y7GqWXHo5J8vGDHmV4AlbVJvH7RBXWXhcadezvDuENu7TGWriJ6k50rm2gX/aXU1v2FJtnvDoPAlK0Q==
+  /@material/mwc-icon/0.19.1:
     dependencies:
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-9Zz7QsstIVjVsO1gpNP6eOMoXU54AUEdcE98poK6HQTz0WvYO+UXGgUGWsAZAABYP6/Ue7f8yRcQmnmH4DH1TQ==
-  /@material/mwc-line-ripple/0.19.0:
+      integrity: sha512-MM3Qz3Inkyo4gU5bHDp/o9TEk9K53Y+glbJGiAUj1dAisrRSwptd7xagROzzmVKlcxN+OHqBOGLFx49ztFP/7Q==
+  /@material/mwc-line-ripple/0.19.1:
     dependencies:
       '@material/line-ripple': 8.0.0-canary.774dcfc8e.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-jZ+wdMnmCP7vcVndTWzDZ0yykDfleIqHsQGKk8+ckXj2/sgi0QzgS2rF/qDaqkRQNsvjh93NK37CepjiNvEiiQ==
-  /@material/mwc-linear-progress/0.19.0:
+      integrity: sha512-q8pgd/C6IW2VAkh8EJfuOe2qgeUIfYe3QPBt/uJPkbWbdRuI7wLeaUy4mXf781NvT+Yvas/Tsgrkx1cjK4yoJQ==
+  /@material/mwc-linear-progress/0.19.1:
     dependencies:
       '@material/linear-progress': 8.0.0-canary.774dcfc8e.0
       '@material/theme': 8.0.0-canary.774dcfc8e.0
+      '@types/resize-observer-browser': 0.1.3
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-5QNmCNu4rFnqMhkrl+EwcUM0ApEb2kmMWu0XYXaAn89ocAtcs0sMX4IdD121NtDzUQRxZFVZ1K2Uh54FXbm+Bg==
-  /@material/mwc-list/0.19.0:
+      integrity: sha512-ewUwEVJTTZFC0/9RbETxtvb+G+v4XLKwgpVz2hKIzZjJU+Mx304WV/Tw1y4v+qz3Wedc5ETJ21s4J9JDvmo0YQ==
+  /@material/mwc-list/0.19.1:
     dependencies:
       '@material/base': 8.0.0-canary.774dcfc8e.0
       '@material/dom': 8.0.0-canary.774dcfc8e.0
       '@material/list': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-checkbox': 0.19.0
-      '@material/mwc-radio': 0.19.0
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-checkbox': 0.19.1
+      '@material/mwc-radio': 0.19.1
+      '@material/mwc-ripple': 0.19.1
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-/ps5KNXmkhjh6pQ61bo04WFQ54ciGG+mDG6HcU79infjpkjAUpMJa9tJ59dA/+kPThefQYSoSvEow8dPG99kwQ==
-  /@material/mwc-menu/0.19.0:
+      integrity: sha512-s/vRvsWI32Sx67dj1f1MNJJ6ZQc796BLbTUu6aKGqT21p5BUeS4VdOzbCALqQILvVpggpm71PFeFdV62cR5tWQ==
+  /@material/mwc-menu/0.19.1:
     dependencies:
       '@material/menu': 8.0.0-canary.774dcfc8e.0
       '@material/menu-surface': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-list': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-list': 0.19.1
       '@material/shape': 8.0.0-canary.774dcfc8e.0
       '@material/theme': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
@@ -1335,177 +1336,177 @@ packages:
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-q4Xq4b/KfMJURKSquvputtGIQ3REOSj2qzEkH+2U23Toqx0TH2zHncGDSGnjd2dlcUt82Hq6gTgRr4t8c8VKGg==
-  /@material/mwc-notched-outline/0.19.0:
+      integrity: sha512-s2XV5IKwX9fbdWbLbslQGIvo1uIqvNH8cAZiw1QkGSFaosMsCVihpOk+5dh+WF8NxzbaDepZ1h3Amr0DXWkSXQ==
+  /@material/mwc-notched-outline/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/notched-outline': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-taLNBMkRtB3bmH/zfprm8yDt/lfNnb3MsxJ7Yohf2iId50J25GsyR7+mZqB4bIl2PYRq4sw8SkDWvrNmPKzCsQ==
-  /@material/mwc-radio/0.19.0:
+      integrity: sha512-nwLIU9p1zr41/8NBOljbztZLlT8Dry+j8JSVnlfnO2cJBzIgzLiGY8kF+0+APrlrFqV3LPCpNnzYZhl/a2v+ag==
+  /@material/mwc-radio/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-ripple': 0.19.1
       '@material/radio': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-bwsLAG/jmYUNyEILObKy2cQ4a2ilS6/XvyWAvWtg3rKrgz3iXHQBUxrdgx+vkGInKWDf+AzYWpo37nBgXjjtJg==
-  /@material/mwc-ripple/0.19.0:
+      integrity: sha512-njCfLygvHbDD4L2K85yZOHVZtkq9HNhbpieboPmxyrvg7+VN0txP5URp32jBdEGQoi+KaPJirm+BzIeB/r1wTA==
+  /@material/mwc-ripple/0.19.1:
     dependencies:
       '@material/dom': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/ripple': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-932JG19pGbUdDlaOCereCVzWAzB00PM7L/QkGG1teDM3gwkR3evFnTXTYPAw/kEQMYUYABr56DxZhD5MQ7yexA==
-  /@material/mwc-select/0.19.0:
+      integrity: sha512-nrT7tNMsDV2Qx0dyYfFAQy5Rwogtip4UCX2CpHL4A5o9Ba1XHiEqy/CRZmijjxTK6FO1l+20efKPYE4jNlZk6w==
+  /@material/mwc-select/0.19.1:
     dependencies:
       '@material/dom': 8.0.0-canary.774dcfc8e.0
       '@material/floating-label': 8.0.0-canary.774dcfc8e.0
       '@material/line-ripple': 8.0.0-canary.774dcfc8e.0
       '@material/list': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-floating-label': 0.19.0
-      '@material/mwc-icon': 0.19.0
-      '@material/mwc-line-ripple': 0.19.0
-      '@material/mwc-list': 0.19.0
-      '@material/mwc-menu': 0.19.0
-      '@material/mwc-notched-outline': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-floating-label': 0.19.1
+      '@material/mwc-icon': 0.19.1
+      '@material/mwc-line-ripple': 0.19.1
+      '@material/mwc-list': 0.19.1
+      '@material/mwc-menu': 0.19.1
+      '@material/mwc-notched-outline': 0.19.1
       '@material/select': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-dRzvDuw1ua549heGEjzcCJ50JFZEaC2kzFDUNNcYZAXSLBwQnreYXygnJgpOqA+8r1yrvXQb452PAwwG3lT7jg==
-  /@material/mwc-slider/0.19.0:
+      integrity: sha512-qOrXC/QGydbD5YD7yT8goDEXRIzXebOumVxXVgENt7q65nFirV5DiAgC2ftj44WBfcm42yoAWIWEwXja0MCMng==
+  /@material/mwc-slider/0.19.1:
     dependencies:
       '@material/dom': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/slider': 8.0.0-canary.01db89053.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-17/OAsu0UUE7mzWlwGLY+vrQJfYPSLlGVeQupvohxSnLIbNyUcELMjED4pG8PMdSq0oCq+1+EURa7ZX6DR/sEA==
-  /@material/mwc-snackbar/0.19.0:
+      integrity: sha512-42hQ63Wg4z/GO4VK922VKRi+jm+rEwqN4I2FWBsQpLms+/9HQ1E1u4ljAtmoKhb1GSbTq0OzrJMJueM/otGBtA==
+  /@material/mwc-snackbar/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/snackbar': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-CDcnxkW43mUaxg3y1aPgeB2f//MUiMRYldyGeOP2hlsi8fkd79qpLTkBA9Nd79XUxjFQzgizUgw9INXe4aTnZg==
-  /@material/mwc-switch/0.19.0:
+      integrity: sha512-fsswVLTRFyOPPipn33lstMhvSgeA5atsBXbGp1MAlig+pEJvO2UcctzS9LRXp/1xASEg+587zhUUXTCfa8qbMA==
+  /@material/mwc-switch/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-ripple': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-ripple': 0.19.1
       '@material/switch': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-sp1krGI1soinbq1e99UiQ9MZD6WxKT7cu54DVAC+ZzsKy7kWtTwcMRxGwtXi3hEax6vfmsbGln/loMCsBZz0eQ==
-  /@material/mwc-tab-bar/0.19.0:
+      integrity: sha512-xzdAXCA77Zs+6PEZmC+WULwe4+DjfCqlEAJ81JFMoXSx/EMyj7c+BJuWv9Ng3NPhXqqfp7/BIPnM3ljuE3p9hA==
+  /@material/mwc-tab-bar/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-tab': 0.19.0
-      '@material/mwc-tab-scroller': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-tab': 0.19.1
+      '@material/mwc-tab-scroller': 0.19.1
       '@material/tab': 8.0.0-canary.774dcfc8e.0
       '@material/tab-bar': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-f6Qxsoc9YdCFChW1o5LTBT6IRKa/8rpTrwJsmkMSPHmrJGDpldg5l0DMYuj2q8OvhqfJ4sXG7lvtrSjXK07wYg==
-  /@material/mwc-tab-indicator/0.19.0:
+      integrity: sha512-LLC4cePI+oXw4lQ1NpxQSq0SoPzxWgWYmeW+g/JhiQexVXJ4xp+0zkBALZL5hXTv6hWBHea2yGE1o9q/3zoloA==
+  /@material/mwc-tab-indicator/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/tab-indicator': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-XDMoPGIzEd+l+2uMa1cPKTAuWuHMhLicDBVyKyozlq7REcZ4ZM4V9W3PeCkxsjKSIar7rNAgEID1loD6p3X0Iw==
-  /@material/mwc-tab-scroller/0.19.0:
+      integrity: sha512-cBQ0/9jZVNTogMuc6BpLgvYQAEh4tAgyQGX6KtI/2zwl3Uz6/CoeWNdTZi7Bk1rbLxvaIEtA9FWiqrMgkbRWpg==
+  /@material/mwc-tab-scroller/0.19.1:
     dependencies:
       '@material/dom': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/tab-scroller': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-CYR1S9qkZbSSM/Gdl6H+/xPrPitx0ScUw77FTNydLltq6CL9h27ZVtRLGyHdWq8FlH4cNVX5NFKbA7UnqBMCnQ==
-  /@material/mwc-tab/0.19.0:
+      integrity: sha512-LYg9g0DdbHnkIZo5kJYtXIH2Iq+p/DQFvbxu9Uw2Q3N60iaBvmYnuXwedw01a4BqN+oRguWmMsvHZ3il7IpakQ==
+  /@material/mwc-tab/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-ripple': 0.19.0
-      '@material/mwc-tab-indicator': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-ripple': 0.19.1
+      '@material/mwc-tab-indicator': 0.19.1
       '@material/tab': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-GcrD/Nyye090H88NQ9gHbRn7QpdVUwCc0R+61JiQUOqjFVVUzMwsx3mHDH70kgEWbAUv3M0adaCdmAFDM1uOoQ==
-  /@material/mwc-textarea/0.19.0:
+      integrity: sha512-Weh5luFgWWftLJvEcH0P1sDJGIKeqnc6Y1rFRcf5tZJujT28hiV4Qc8YLKopU8D7mhJxNwGIGQ+lFdi9OlfHEg==
+  /@material/mwc-textarea/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-textfield': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-textfield': 0.19.1
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-zSf8OPazJkOM9hrA/Svu9916Frze6V4xx2lxZmtMJYgMGXW0xZVGxDJmlgqrql2/8ulTuMOHZcQYr5YOqHuLJA==
-  /@material/mwc-textfield/0.19.0:
+      integrity: sha512-pzvNtZ+jX3Y2bnWPUraYtJr9HnBXrUOiECC6KqNsrNZGCP0igXnVZPsS0SX1d44RdJsb9G1xXs9vhbZJUIPTlQ==
+  /@material/mwc-textfield/0.19.1:
     dependencies:
       '@material/floating-label': 8.0.0-canary.774dcfc8e.0
       '@material/line-ripple': 8.0.0-canary.774dcfc8e.0
-      '@material/mwc-base': 0.19.0
-      '@material/mwc-floating-label': 0.19.0
-      '@material/mwc-line-ripple': 0.19.0
-      '@material/mwc-notched-outline': 0.19.0
+      '@material/mwc-base': 0.19.1
+      '@material/mwc-floating-label': 0.19.1
+      '@material/mwc-line-ripple': 0.19.1
+      '@material/mwc-notched-outline': 0.19.1
       '@material/textfield': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-DYXlbeWhXopVY4k8zYwpO8DpPL/UpNkYsoSxY6aYckcqFTW7jNuT78qyktiFRo91y37it3DNtAC/oItDBRde1g==
-  /@material/mwc-top-app-bar-fixed/0.19.0:
+      integrity: sha512-GDwbOVYK7j1T8lqlcpfBciEbw/UnuppH/li8Z7hWd0z2NypiHjcQxIlJyw8wb0xQotIkOMIUpl0zFJTugmRYDg==
+  /@material/mwc-top-app-bar-fixed/0.19.1:
     dependencies:
-      '@material/mwc-top-app-bar': 0.19.0
+      '@material/mwc-top-app-bar': 0.19.1
       '@material/top-app-bar': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-lflY6HGf27wimM1i3b0zRuQfhru6/MoYhM4eSkNJMxwVt1IidKylzni+UGO50VXrJNvxMbxMD9Xgji0EkIuCzg==
-  /@material/mwc-top-app-bar/0.19.0:
+      integrity: sha512-mSQA0BIjAnFa5P6wMZneKt9FmG+WKOErfWMY8rSpLTG1K88E+Fz7QzVY3uQ6iabfeKi7wQUNzpbqSF9y3YiIJQ==
+  /@material/mwc-top-app-bar/0.19.1:
     dependencies:
-      '@material/mwc-base': 0.19.0
+      '@material/mwc-base': 0.19.1
       '@material/top-app-bar': 8.0.0-canary.774dcfc8e.0
       lit-element: 2.4.0
       lit-html: 1.3.0
       tslib: 1.14.0
     dev: false
     resolution:
-      integrity: sha512-bwpdneXYzP+h/q1cdBVBeU1YInwwukBlPwSnKlu+uNF/RNhA/4VByHSJ9FHISn061vdL85/MfKEW0vuj4aQqKA==
+      integrity: sha512-AsMr/p5X1ambch6DnSpPIYF0ZnGAscJhyWeVawZ0zF1amzypODjtohHI6qsFwjQbcZ1Vm79DyH627DtsPEz1yA==
   /@material/notched-outline/8.0.0-canary.774dcfc8e.0:
     dependencies:
       '@material/base': 8.0.0-canary.774dcfc8e.0
@@ -2020,6 +2021,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-ewFXqrQHlFsgc09MK5jP5iR7vumV/BYayNC6PgJO2LPe8vrnNFyjQjSppfEngITi0qvfKtzFvgKymGheFM9UOA==
+  /@types/resize-observer-browser/0.1.3:
+    dev: false
+    resolution:
+      integrity: sha512-3tGjLIDH8L57fWOfC7NVn/BbGQD7pXwbkk2+8Z4hK/S7kOIv1MUN4nkKjfx0qg4ctkukjzp3Bgr/Z+Hq5ZQZTQ==
   /@types/resolve/0.0.8:
     dependencies:
       '@types/node': 14.0.0
@@ -3909,37 +3914,37 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  '@material/mwc-button': ^0.19.0
-  '@material/mwc-checkbox': ^0.19.0
-  '@material/mwc-circular-progress': ^0.19.0
-  '@material/mwc-circular-progress-four-color': ^0.19.0
-  '@material/mwc-dialog': ^0.19.0
-  '@material/mwc-drawer': ^0.19.0
-  '@material/mwc-fab': ^0.19.0
-  '@material/mwc-floating-label': ^0.19.0
-  '@material/mwc-formfield': ^0.19.0
-  '@material/mwc-icon': ^0.19.0
-  '@material/mwc-icon-button': ^0.19.0
-  '@material/mwc-icon-button-toggle': ^0.19.0
-  '@material/mwc-line-ripple': ^0.19.0
-  '@material/mwc-linear-progress': ^0.19.0
-  '@material/mwc-list': ^0.19.0
-  '@material/mwc-menu': ^0.19.0
-  '@material/mwc-notched-outline': ^0.19.0
-  '@material/mwc-radio': ^0.19.0
-  '@material/mwc-ripple': ^0.19.0
-  '@material/mwc-select': ^0.19.0
-  '@material/mwc-slider': ^0.19.0
-  '@material/mwc-snackbar': ^0.19.0
-  '@material/mwc-switch': ^0.19.0
-  '@material/mwc-tab': ^0.19.0
-  '@material/mwc-tab-bar': ^0.19.0
-  '@material/mwc-tab-indicator': ^0.19.0
-  '@material/mwc-tab-scroller': ^0.19.0
-  '@material/mwc-textarea': ^0.19.0
-  '@material/mwc-textfield': ^0.19.0
-  '@material/mwc-top-app-bar': ^0.19.0
-  '@material/mwc-top-app-bar-fixed': ^0.19.0
+  '@material/mwc-button': ^0.19.1
+  '@material/mwc-checkbox': ^0.19.1
+  '@material/mwc-circular-progress': ^0.19.1
+  '@material/mwc-circular-progress-four-color': ^0.19.1
+  '@material/mwc-dialog': ^0.19.1
+  '@material/mwc-drawer': ^0.19.1
+  '@material/mwc-fab': ^0.19.1
+  '@material/mwc-floating-label': ^0.19.1
+  '@material/mwc-formfield': ^0.19.1
+  '@material/mwc-icon': ^0.19.1
+  '@material/mwc-icon-button': ^0.19.1
+  '@material/mwc-icon-button-toggle': ^0.19.1
+  '@material/mwc-line-ripple': ^0.19.1
+  '@material/mwc-linear-progress': ^0.19.1
+  '@material/mwc-list': ^0.19.1
+  '@material/mwc-menu': ^0.19.1
+  '@material/mwc-notched-outline': ^0.19.1
+  '@material/mwc-radio': ^0.19.1
+  '@material/mwc-ripple': ^0.19.1
+  '@material/mwc-select': ^0.19.1
+  '@material/mwc-slider': ^0.19.1
+  '@material/mwc-snackbar': ^0.19.1
+  '@material/mwc-switch': ^0.19.1
+  '@material/mwc-tab': ^0.19.1
+  '@material/mwc-tab-bar': ^0.19.1
+  '@material/mwc-tab-indicator': ^0.19.1
+  '@material/mwc-tab-scroller': ^0.19.1
+  '@material/mwc-textarea': ^0.19.1
+  '@material/mwc-textfield': ^0.19.1
+  '@material/mwc-top-app-bar': ^0.19.1
+  '@material/mwc-top-app-bar-fixed': ^0.19.1
   '@rollup/plugin-node-resolve': ^7.1.3
   '@webcomponents/webcomponentsjs': ^2.4.3
   es-dev-server: ^1.48.1
