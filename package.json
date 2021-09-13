@@ -40,9 +40,9 @@
     "@material/mwc-textfield": "^0.23.0",
     "@material/mwc-top-app-bar": "^0.23.0",
     "@material/mwc-top-app-bar-fixed": "^0.23.0",
-    "@webcomponents/webcomponentsjs": "^2.4.3",
-    "lit-element": "^2.3.1",
-    "lit-html": "^1.2.1"
+    "@webcomponents/webcomponentsjs": "^2.6.0",
+    "lit-element": "^2.5.1",
+    "lit-html": "^1.4.1"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^7.1.3",
